@@ -1,0 +1,4 @@
+2019-09-05 21:24:52,544 DEBUG    root            Loaded Command Group: [u'gcloud', u'auth']
+2019-09-05 21:24:52,557 DEBUG    root            Loaded Command Group: [u'gcloud', u'auth', u'git_helper']
+2019-09-05 21:24:52,569 DEBUG    root            Running [gcloud.auth.git-helper] with arguments: [--account: "40964105802-compute@developer.gserviceaccount.com", --ignore-unknown: "True", METHOD: "get"]
+2019-09-05 21:24:52,627 INFO     root            Display format: "default"
